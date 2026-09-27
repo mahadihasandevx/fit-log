@@ -13,9 +13,7 @@ const Footer = () => {
             </p>
           </div>
 
-          <p className="text-sm text-slate-500">
-            © 2026 FitLog — Workout Library.
-          </p>
+          <p className="text-sm text-slate-500">FitLog Workout</p>
         </div>
       </div>
     </footer>
